@@ -8,11 +8,11 @@ capture screen and send feedback to an informed e-mail.
 
 ## Techs
 
-[X] ReactJS
-[X] Typescript
-[X] Vite
-[X] Tailwindcss
-[X] HeadlessUI
+- [X] ReactJS
+- [X] Typescript
+- [X] Vite
+- [X] Tailwindcss
+- [X] HeadlessUI
 
 ## How to use
 

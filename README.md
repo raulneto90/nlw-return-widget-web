@@ -31,4 +31,4 @@ $ pnpm dev
 ```
 
 ---
-Made with :heart: by Raul Neto. Check out my [LinkedIn]() and my [Github]() profile.
+Made with :heart: by Raul Neto. Check out my [LinkedIn](https://www.linkedin.com/in/raul-neto-90/) and my [Github](https://github.com/raulneto90) profile.

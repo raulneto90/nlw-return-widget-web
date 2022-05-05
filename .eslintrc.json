@@ -45,7 +45,10 @@
       }
     ],
     "import/prefer-default-export": "off",
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "@typescript/no-non-null-assertion": "off",
+    "react/jsx-no-bind": "off",
+    "react/jsx-no-useless-fragment": "off"
   },
   "settings": {
     "import/resolver": {
